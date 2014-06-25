@@ -17,3 +17,6 @@ With this library you are able to check for a new version of your app in the iOS
     store.checkForAppUpdate(appId, function (version) {
         // see the example in the Resources/app.js
     }
+
+# License
+MIT
